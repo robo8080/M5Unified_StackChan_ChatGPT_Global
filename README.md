@@ -1,6 +1,9 @@
 # M5Unified_StackChan_ChatGPT_Global
 多言語対応のM5Unified_StackChan_ChatGPTです。
 
+[English](README_en.md)<br>
+
+
 ![画像1](images/image1.png)<br><br>
 
 これは @mongonta555 さんの[ｽﾀｯｸﾁｬﾝ M5GoBottom版組み立てキット](https://raspberrypi.mongonta.com/about-products-stackchan-m5gobottom-version/ "Title")に対応したｽﾀｯｸﾁｬﾝファームです。<br><br>
