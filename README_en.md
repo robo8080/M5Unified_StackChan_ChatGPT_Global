@@ -48,12 +48,6 @@ YOUR_OPENAI_APIKEY<br>
 In this case, access "http://XXX.XXX.XXX.XXX/apikey" in your browser and set the API key.<br>
 (xxxx.xxxx.xxxx.xxxx is the IP address displayed when AI Stack Chan is started.)<br>
 
-* You can specify the voice parameter to change the voice.<br>
-Values can be specified in the range of 0 to 4.<br>
-For example, specify it as follows.<br><br>
-http://192.168.11.20/chat?voice=4&text=hello<br>
-<br>
-
 * You can set the role by accessing "http://xxxx.xxxx.xxxx.xxxx/role" in your browser.<br>
 (xxxx.xxxx.xxxx.xxxx is the IP address displayed when AI Stack Chan is started.)<br>
 If you send it without entering anything in the text area, the previously set role will be deleted.<br><br>

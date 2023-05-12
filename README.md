@@ -50,12 +50,6 @@ YOUR_OPENAI_APIKEY<br>
 この場合、ブラウザで"http://XXX.XXX.XXX.XXX/apikey"にアクセスし、APIキーを設定できます。<br>
 (xxxx.xxxx.xxxx.xxxxはAIスタックチャンの起動時に表示されるIPアドレスです。)<br>
 
-* 声の変更には、voiceパラメータを指定できます。<br>
-値は0〜4の範囲で指定できます。<br>
-例えば、次のように指定します。<br><br>
-http://192.168.11.20/chat?voice=4&text=こんにちは<br>
-<br>
-
 * ブラウザで"http://xxxx.xxxx.xxxx.xxxx/role"にアクセスすると、ロールを設定できます。<br>
 (xxxx.xxxx.xxxx.xxxxはAIスタックチャンの起動時に表示されるIPアドレスです。)<br>
 テキストエリアに何も入力せずに送信すると、以前に設定されたロールが削除されます。<br><br>
